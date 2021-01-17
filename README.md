@@ -1,5 +1,5 @@
 ## Hi there 👋
- My name is Magdalena and I'm a second-year computer science students. I am a curious individual who loves to code.
+ My name is Magdalena and I'm a second-year computer science student 👯 I am a curious individual who loves to code ⚡
 
 ### Interests 🤔
 Graphics, Software Development, and Programing Languages.
@@ -14,7 +14,8 @@ Graphics, Software Development, and Programing Languages.
 - Some HTML & CSS
 
 ### Editors 🌱
-Editors: Visual Studio Code, Atom
+- 😄 Visual Studio Code
+- 🔭 Atom
 
 ### Contact Me 📫
 [My LinkedIn](https://www.linkedin.com/in/magdalenadhima/)
