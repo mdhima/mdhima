@@ -1,17 +1,17 @@
-### Hi there 👋
-My name is Magdalena and I'm a second-year computer science students. I am a curious individual who loves to code.
+## Hi there 👋
+ My name is Magdalena and I'm a second-year computer science students. I am a curious individual who loves to code.
 
 ### Interests
 Graphics, Software Development, and Programing Languages.
 
-### What I Do:
-Languages:
-	Python
-	Java
-	JavaScript
-	C
-	Batch 
-	Some HTML & CSS
+### Languages
+
+- Python
+- Java
+- JavaScript
+- C
+- Batch 
+- Some HTML & CSS
 
 ### My Systems
 Editors: Visual Studio Code, Atom
