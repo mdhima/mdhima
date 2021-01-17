@@ -6,12 +6,12 @@ Graphics, Software Development, and Programing Languages.
 
 ### What I Do:
 Languages:
-Python
-Java
-JavaScript
-C
-Batch 
-Some HTML & CSS
+	Python
+	Java
+	JavaScript
+	C
+	Batch 
+	Some HTML & CSS
 
 ### My Systems
 Editors: Visual Studio Code, Atom
