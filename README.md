@@ -1,10 +1,10 @@
 ## Hi there 👋
  My name is Magdalena and I'm a second-year computer science students. I am a curious individual who loves to code.
 
-### Interests
+### Interests 🤔
 Graphics, Software Development, and Programing Languages.
 
-### Languages
+### Languages 💬
 
 - Python
 - Java
@@ -13,8 +13,11 @@ Graphics, Software Development, and Programing Languages.
 - Batch 
 - Some HTML & CSS
 
-### My Systems
+### Editors 🌱
 Editors: Visual Studio Code, Atom
+
+### Contact Me 📫
+[My LinkedIn](https://www.linkedin.com/in/magdalenadhima/)
 
 <!--
 **mdhima/mdhima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
