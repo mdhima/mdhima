@@ -11,7 +11,7 @@ Graphics, Software Development, and Programing Languages.
 - JavaScript
 - C
 - Batch 
-- Some HTML & CSS
+- HTML & CSS
 
 ### Editors 🌱
 - 😄 Visual Studio Code
