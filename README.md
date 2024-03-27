@@ -10,6 +10,7 @@ Graphics, Software Development, and Programing Languages.
 - Java
 - JavaScript
 - C
+- C#
 - Batch 
 - HTML & CSS
 
