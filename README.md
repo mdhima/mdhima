@@ -1,5 +1,5 @@
 ## Hi there 👋
- My name is Magdalena and I'm a fourth-year computer science student 👯 I am a curious individual who loves to code ⚡
+ My name is Magdalena and I'm a computer science graduate 👯 I am a curious individual who loves to code ⚡
 
 ### Interests 🤔
 Graphics, Software Development, and Programing Languages.
